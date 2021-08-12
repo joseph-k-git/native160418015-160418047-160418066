@@ -1,0 +1,2 @@
+rootProject.name = "AdvNative 01 Tugas VCS"
+include ':app'
